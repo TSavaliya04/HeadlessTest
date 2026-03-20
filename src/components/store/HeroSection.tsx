@@ -24,7 +24,7 @@ export const HeroSection = () => {
       <div className="container mx-auto px-6 text-center relative z-10">
         <div className={`transition-all duration-700 ${visible ? 'animate-reveal-up' : 'opacity-0'}`}>
           <p className="text-sm uppercase tracking-[0.3em] text-gold font-medium mb-6">
-            Handcrafted with Heritage
+            Handcrafted with Indian Heritage 
           </p>
         </div>
         
